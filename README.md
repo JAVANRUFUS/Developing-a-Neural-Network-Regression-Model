@@ -44,9 +44,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:chandru k
+### Name:Javan rufus j
 
-### Register Number:212224220017
+### Register Number:212224230104
 
 ```python
 class NeuralNet(nn.Module):
